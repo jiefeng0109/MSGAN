@@ -1,0 +1,7 @@
+msgan代码包含三部分：
+
+gan_model.py：模型结构搭建
+sub_function.py:调用函数文件
+loss.py:定义msgan中生成器和判别器的loss
+
+程序运行：在loss.py中开启session开始运行
